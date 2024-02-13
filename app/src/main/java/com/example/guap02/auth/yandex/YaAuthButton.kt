@@ -29,6 +29,9 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
+/**
+ * @return Yandex Auth Butto
+ */
 @SuppressLint("CoroutineCreationDuringComposition")
 @Composable
 fun YaAuth() {
